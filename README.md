@@ -129,8 +129,5 @@ plt.show()
 
 
 
-![simple linear regression model for predicting the marks scored](sam.png)
-
-
 ## Result:
 Thus, the program to implement Linear and Polynomial Regression models for predicting car prices was written and verified using Python programming.
